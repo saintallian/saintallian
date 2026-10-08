@@ -65,17 +65,7 @@ Full-stack developer building practical software across the stack.
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saintallian&bg_color=0D1117&color=6EE7B7&line=6EE7B7&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
 </div>
 
----
 
-### 🐍 Contribution snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saintallian/saintallian/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saintallian/saintallian/output/github-snake.svg" />
-    <img width="100%" alt="Snake animation of GitHub contributions" src="https://raw.githubusercontent.com/saintallian/saintallian/output/github-snake.svg" />
-  </picture>
-</p>
 
 ---
 
